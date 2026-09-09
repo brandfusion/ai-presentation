@@ -1,0 +1,20 @@
+{
+  "name": "truvio-agentic-presentation",
+  "version": "1.0.0",
+  "description": "Web-native presentation on Agentic AI in Truvio Commerce",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js 3000",
+    "dev": "node server.js 3000"
+  },
+  "keywords": [
+    "presentation",
+    "markdown",
+    "agentic-ai",
+    "truvio",
+    "slides",
+    "netlify"
+  ],
+  "author": "",
+  "license": "MIT"
+}
