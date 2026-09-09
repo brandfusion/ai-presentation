@@ -1,5 +1,5 @@
-<!--
-============================================================
+# <!--
+
 TRUVIO COMMERCE PRESENTATION SLIDES
 Topic: Agentic AI in Solving Landing Page Creation
 Edit this file to update presentation slides.
@@ -12,6 +12,7 @@ Speaker notes: <!-- notes: Your notes here -->
 <div class="slide-badge">⚡ Truvio Commerce &bull; Autonomous Experience Engine</div>
 
 # Agentic AI in Truvio Commerce
+
 ### Solving Automated Landing Page Creation at Enterprise Scale
 
 <div class="hero-stats">
@@ -29,7 +30,7 @@ Welcome everyone. Today we are presenting how Agentic AI transforms one of the b
 ---
 
 <!-- slide: 2 -->
-<div class="slide-badge red">⚠️ The Core Problem</div>
+<div class="slide-badge red">⚠️ The Core Problem<: Slide 2/div>
 
 ## The Landing Page Bottleneck in Commerce Today
 
